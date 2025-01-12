@@ -5,3 +5,5 @@ tes aja
 ini paling update
 
 ini code buat main
+
+# code yg baru dari ryan branch
